@@ -1,4 +1,17 @@
 # Car-and-Bike-Detection
+
+# demo
+
+
+
+
+https://github.com/himanshukumar8115/Car-and-Bike-Detection/assets/154125962/bc12da42-7a95-402c-8072-e138c43dbce6
+
+
+https://youtu.be/zMzsQcO2hEs
+
+
+
 Overview
 YOLO (You Only Look Once) is a state-of-the-art, real-time object detection system. Unlike traditional detection systems that apply a classifier to an image at multiple locations and scales, YOLO applies a single neural network to the full image. This network divides the image into regions and predicts bounding boxes and probabilities for each region. These bounding boxes are weighted by the predicted probabilities.
 
